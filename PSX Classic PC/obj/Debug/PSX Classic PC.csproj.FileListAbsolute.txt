@@ -1,1 +1,14 @@
 C:\Users\gianmnf\Desktop\PSX Classic PC\PSX Classic PC\bin\Debug\PSX Classic PC.exe.config
+C:\Users\gianmnf\Desktop\PSX Classic PC\PSX Classic PC\obj\Debug\PSX Classic PC.csprojResolveAssemblyReference.cache
+C:\Users\gianmnf\Desktop\PSX Classic PC\PSX Classic PC\obj\Debug\Interop.WMPLib.dll
+C:\Users\gianmnf\Desktop\PSX Classic PC\PSX Classic PC\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gianmnf\Desktop\PSX Classic PC\PSX Classic PC\obj\Debug\PSX Classic PC.csproj.ResolveComReference.cache
+C:\Users\gianmnf\Desktop\PSX Classic PC\PSX Classic PC\obj\Debug\PSX_Classic_PC.Form1.resources
+C:\Users\gianmnf\Desktop\PSX Classic PC\PSX Classic PC\obj\Debug\PSX_Classic_PC.Properties.Resources.resources
+C:\Users\gianmnf\Desktop\PSX Classic PC\PSX Classic PC\obj\Debug\PSX Classic PC.csproj.GenerateResource.Cache
+C:\Users\gianmnf\Desktop\PSX Classic PC\PSX Classic PC\bin\Debug\PSX Classic PC.exe
+C:\Users\gianmnf\Desktop\PSX Classic PC\PSX Classic PC\bin\Debug\PSX Classic PC.pdb
+C:\Users\gianmnf\Desktop\PSX Classic PC\PSX Classic PC\bin\Debug\Interop.WMPLib.dll
+C:\Users\gianmnf\Desktop\PSX Classic PC\PSX Classic PC\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gianmnf\Desktop\PSX Classic PC\PSX Classic PC\obj\Debug\PSX Classic PC.exe
+C:\Users\gianmnf\Desktop\PSX Classic PC\PSX Classic PC\obj\Debug\PSX Classic PC.pdb
